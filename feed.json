@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "البساط السحري",
+    "description": "",
+    "home_page_url": "https://mysticalcarpet.github.io",
+    "feed_url": "https://mysticalcarpet.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "علاء الدين"
+    },
+    "items": [
+    ]
+}

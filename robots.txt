@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mysticalcarpet.github.io/sitemap.xml
